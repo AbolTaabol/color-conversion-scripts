@@ -1,6 +1,5 @@
 <script>
-// The following code is licensed under Apache-2.0 license as indicated in
-// the "About" page of this blog.
+
 function lerp(a, b, t) {
     if (Array.isArray(a)) {
         var result = [];
